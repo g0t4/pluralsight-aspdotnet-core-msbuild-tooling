@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
+using Client;
 
 namespace Web
 {
@@ -11,6 +12,8 @@ namespace Web
     {
         public static void Main(string[] args)
         {
+            Keys.ThrowIfKeysNotSet();
+
             var host = new WebHostBuilder()
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
