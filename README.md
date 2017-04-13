@@ -21,3 +21,11 @@
 
 ### Extensibility
 - [.NET Core CLI extensibility model](https://docs.microsoft.com/en-us/dotnet/articles/core/tools/extensibility)
+
+### Templates
+
+- [Available Templates](https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new)
+- [dotnet/templating wiki](https://github.com/dotnet/templating/wiki)
+- [How to create your own templates for dotnet new](https://blogs.msdn.microsoft.com/dotnet/2017/04/02/how-to-create-your-own-templates-for-dotnet-new/)
+- [How To Create A dotnet new Project Template In .NET Core](http://pioneercode.com/post/how-to-create-a-dot-net-new-project-template-in-dot-net-core)
+- [Custom Project Templates Using dotnet new](http://rehansaeed.com/custom-project-templates-using-dotnet-new/)
