@@ -17,6 +17,7 @@
 - [NuGet pack and restore as MSBuild targets](https://docs.microsoft.com/en-us/nuget/schema/msbuild-targets#pack-target)
 - [Create .NET standard packages with Visual Studio 2017](https://docs.microsoft.com/en-us/nuget/guides/create-net-standard-packages-vs2017)
 - [NuGet docs](https://docs.microsoft.com/en-us/nuget/)
+- [Package references (PackageReference) in project files](https://docs.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files)
 
 ### Extensibility
 - [.NET Core CLI extensibility model](https://docs.microsoft.com/en-us/dotnet/articles/core/tools/extensibility)
