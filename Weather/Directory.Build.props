@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <VersionPrefix>1.1.0</VersionPrefix>
+    <Authors>Wes</Authors>
+    <Copyright>Weather Inc</Copyright>
+  </PropertyGroup>
+</Project>
