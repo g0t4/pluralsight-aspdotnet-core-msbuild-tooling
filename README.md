@@ -22,6 +22,7 @@
 - [.nuspec reference](https://docs.microsoft.com/en-us/nuget/schema/nuspec#including-content-files)
 - [NuGet docs](https://docs.microsoft.com/en-us/nuget/)
 - [Package references (PackageReference) in project files](https://docs.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files)
+- [Proposal: Adding nuget pack as a msbuild target](https://github.com/NuGet/Home/wiki/Adding-nuget-pack-as-a-msbuild-target)
 
 ### Extensibility
 - [.NET Core CLI extensibility model](https://docs.microsoft.com/en-us/dotnet/articles/core/tools/extensibility)
